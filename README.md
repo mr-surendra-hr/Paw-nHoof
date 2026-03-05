@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 About Paw'nHoof
+## 📖 About Paw'nHoof 
 
 **Paw'nHoof** is a dedicated web platform designed to facilitate the adoption and care of stray and domestic animals. 
 
