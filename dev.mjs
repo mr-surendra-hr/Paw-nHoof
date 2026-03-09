@@ -5,7 +5,7 @@ function start(label, command, args, options = {}) {
   const child = spawn(command, args, {
     stdio: "inherit",
     env: process.env,
-    ...options,
+    ...options, 
   });
 
   child.on("exit", (code) => {
